@@ -1,4 +1,4 @@
-# Toonflow Python - AI 短剧工厂 FastAPI 后端
+# 无极 AI (Wuji AI) - AI 短剧工厂 FastAPI 后端
 
 基于 **FastAPI** 的 Python 后端实现，保持与原 Node.js 项目相同的文件结构。
 

@@ -1,5 +1,5 @@
 """
-Toonflow - AI 短剧工厂 FastAPI 后端
+无极 AI (Wuji AI) - AI 短剧工厂 FastAPI 后端
 AI 剧本 × AI 影像 × 极速生成
 """
 
@@ -25,7 +25,7 @@ from src.routes.other import other
 
 # 创建 FastAPI 应用
 app = FastAPI(
-    title="Toonflow API",
+    title="Wuji AI API | 无极 AI",
     description="AI 短剧工厂 - 从文本到角色，从分镜到视频，0 门槛全流程 AI 化",
     version="1.0.0",
     docs_url="/api/docs",
